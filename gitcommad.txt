@@ -1,0 +1,15 @@
+##GIT COMMAND##
+
+#for adding user
+ -- git config --global user.name "username"
+ -- git config --global user.email "email"
+ -- git config list
+ #in project folder
+
+ --git init
+ --git status
+ --git add.
+ --git commit -m "message"
+ --git log
+ --git remort add origin 'repository path'
+ --git push origin branch_name(master/main)
