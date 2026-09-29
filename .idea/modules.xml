@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/DBworks.iml" filepath="$PROJECT_DIR$/.idea/DBworks.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/demoproject.iml" filepath="$PROJECT_DIR$/.idea/demoproject.iml" />
+>>>>>>> b704672eb6bb532931ddd7d02ffab4bc65905311
     </modules>
   </component>
 </project>

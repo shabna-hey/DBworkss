@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.13 (DBworks)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (DBworks)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.13 (demoproject)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (demoproject)" project-jdk-type="Python SDK" />
+>>>>>>> b704672eb6bb532931ddd7d02ffab4bc65905311
 </project>
